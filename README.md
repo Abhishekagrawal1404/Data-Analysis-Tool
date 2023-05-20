@@ -67,7 +67,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## Contact
 
-For any inquiries or questions, please reach out to me via email at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or questions, please reach out to me via email at [your-abhishek@oranet.co.in](mailto:abhishek@oranet.co.in).
 
 Enjoy exploring and analyzing data with the data analysis tool!
 
